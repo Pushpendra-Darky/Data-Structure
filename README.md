@@ -15,15 +15,15 @@
 2. Write a program to Sort a stack using a temporary stack
 3. Write a program to Sort an  array using Stacks
 4. Evaluate following prefix expressions
-   a. +, -, 20, *,  3, 4, 1
-   b.  -, *, 3, +, 3, 7,  /,  ^,  4, 2, 2
-   c. -, /, *, 3, ^, 5, 2, 15, -, 5, ^, 2, 2
-   d. +, -, +, /, *, 2, 20, 2, *, +, 3, 4, ^, 3, 2, 6, 15
-   e. *,  5,  -,  ^,  6, 2, 2
+ - +, -, 20, *,  3, 4, 1
+ - -, *, 3, +, 3, 7,  /,  ^,  4, 2, 2
+ - -, /, *, 3, ^, 5, 2, 15, -, 5, ^, 2, 2
+ - +, -, +, /, *, 2, 20, 2, *, +, 3, 4, ^, 3, 2, 6, 15
+ - *,  5,  -,  ^,  6, 2, 2
 5. Convert following infix expression to postfix
-   a. x^y/(5*z)+2
-   b. K + L - M*N + (O^P) * W/U/V * T + Q
-   c. A+(B*C+D)/E
+ - x^y/(5*z)+2
+ - K + L - M*N + (O^P) * W/U/V * T + Q
+ - A+(B*C+D)/E
         
 ## **Day4**
 **Assignments On Queue**
@@ -48,20 +48,20 @@
 
 ## **Day7**
 **Assignments On Hash Table**
-Implement Hash Table Data Structures with following three basic operations using Open Addressing (Linear Probing). 
-Implementations must resolve the
+- Implement Hash Table Data Structures with following three basic operations using Open Addressing (Linear Probing). 
+- Implementations must resolve the
 expected collisions.
 1. insert (i):Insert ‘i’ in to the hash table
 2. find(i): Find item with key ‘i’
 3. remove(i): delete ‘i’ from the hash table
-Write the Test code to check the working of the program
+- Write the Test code to check the working of the program
 
 ## **Day8 & 9**
 **Assignments On BST**
 1. Write a program to implement a binary search tree and the following operations on it using arrays:
-a. Create()
-b. Inorder()
-c. Preorder()
+- Create()
+- Inorder()
+- Preorder()
 
 ## **Day10**
 **Assignments On Searching & Sorting Algorithm**
